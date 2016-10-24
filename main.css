@@ -1,0 +1,26 @@
+h1 {
+	padding-top: 30px;
+	text-align: center;
+	color: #C71585;
+}
+h2 {
+  text-align: center;
+  padding-top: 50px;
+  color: #DB7093;
+}
+h3 {
+  text-align: center;
+}
+a { /*basic a when mouse does not hover*/
+  text-decoration: none;
+  color: #FFC0CB;
+}
+a:hover { /*state of the <a> tag when mouse hovers*/
+  text-decoration: none;
+  color: #C71585;
+}
+
+.profile_pic {
+	border-radius: 50%; /*this is to make an image a circle*/
+	width: 200px; /*this makes the width 200 pixels*/
+}
